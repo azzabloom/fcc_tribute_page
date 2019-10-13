@@ -1,0 +1,59 @@
+html,
+body {
+  font-family: "Sanchez", sans-serif;
+  text-align: center;
+  min-width: 260px;
+  color: #333;
+}
+#main {
+  margin: 30px auto;
+  padding: 15px;
+  border: 0px solid;
+  border-radius: 5px;
+  background: #eee;
+}
+#desc {
+  font-family: "Permanent Marker", cursive;
+}
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+}
+#img-div {
+  margin: -5px;
+  margin-top: 20px;
+  width: 100%;
+  border: 5px solid white;
+  background: white;
+}
+#img-caption {
+  margin: 15px auto 15px auto;
+  max-width: 800px;
+}
+#tribute-info {
+  margin: 5px auto 5px auto;
+  max-width: 1100px;
+}
+#timeline {
+  margin: 5px auto 5px auto;
+  background: white;
+  border: 5px solid white;
+}
+#headline {
+  margin: 50px auto 0px auto;
+  text-align: center;
+  font-family: "Permanent Marker", cursive;
+}
+ul {
+  max-width: 550px;
+  margin: 0 auto;
+  text-align: left;
+}
+li {
+  margin: 10px;
+}
+blockquote {
+  font-style: italic;
+}
